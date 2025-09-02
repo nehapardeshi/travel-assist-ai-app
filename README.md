@@ -10,9 +10,9 @@ Workflow based form to capture trip details like no of trip days, trip location,
 Creates tailored itineraries based on user preferences
 
 ## Benefits
-Saves time and reduces stress when planning trips.
-Enhances the travel experience with personalized recommendations.
-Provides peace of mind with real-time assistance and safety features.
+- Saves time and reduces stress when planning trips.
+- Enhances the travel experience with personalized recommendations.
+- Provides peace of mind with real-time assistance and safety features.
 
 # Getting Started with Create React App
 
