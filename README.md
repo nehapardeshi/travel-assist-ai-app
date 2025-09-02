@@ -1,3 +1,19 @@
+# Travel Assist AI App
+
+A Travel Assist AI app is a smart companion application designed to make planning, booking, and experiencing travel easier by leveraging artificial intelligence. Instead of being just a static itinerary tool, it acts like a personalized digital travel assistant. Here’s what is included: 
+
+## Key Features
+### User Preference Form
+Workflow based form to capture trip details like no of trip days, trip location, travellers group info, kids info, travel mode (car, public transport, etc), places of interest preferences, food preferences and other information.
+
+### Personalized Trip Planning
+Creates tailored itineraries based on user preferences
+
+## Benefits
+Saves time and reduces stress when planning trips.
+Enhances the travel experience with personalized recommendations.
+Provides peace of mind with real-time assistance and safety features.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
